@@ -24,7 +24,7 @@ Instead of abusing well-known libraries, why not create my own? Of course, keepi
 - Caches
 - Security & Encryption
 
-When it came to build my first app, I thought in build something useful even if for my solo use, then building security dashboard sounded like an appealing choice, but it can have thousands of features that I would build. Checking my credit card expenses I saw <a href="https://1password.com" target="_blank" rel="noopener">1Password</a>, then it clicked, I'll start by building a password manager to store accounts safely and save me up some costs. The name? not sure... just think, then weeks passed... I love dogs, I love my dog they are so true to everything hmm... A guard dog maybe?... <a href="https://en.wikipedia.org/wiki/Cane_Corso" target="_blank" rel="noopener">Cane Corso!</a> sounds good.
+When it came to build my first app, I thought in build something useful even if for my solo use, then building security dashboard sounded like an appealing choice, but it can have thousands of features that I would build. Checking my credit card expenses I saw <a href="https://1password.com" target="_blank" rel="noopener">1Password</a>, then it clicked, I'll start by building a password manager to store accounts safely and save me up some costs. The name? not sure... just think, then weeks passed... I'm stressed let me take my dog Tom to the walk... Tom is a nice dog, he does not care about anything just enjoy the moment hmm... A guard dog maybe?... <a href="https://en.wikipedia.org/wiki/Cane_Corso" target="_blank" rel="noopener">Cane Corso!</a> sounds good.
 
 ### The first iteration
 
